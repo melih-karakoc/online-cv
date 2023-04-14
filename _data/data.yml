@@ -47,7 +47,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a software engineer who has experience of over 3 years and 8 months.These companies were in the phase of startup/scale-up so we had to do more jobs than our titles requirements. I started as a Backend developer at my first Job. Django was my first framework at that time. In my second job, there was a challenge with Front-end development with ClojureScript and Back-end development with Ruby on Rails. These years taught me some lessons like: 
+      I am a software engineer who has experience of over 3 years and 8 months.
+      These companies were in the phase of startup/scale-up so we had to do more jobs than our titles requirements.
+      I started as a Backend developer at my first Job. Django was my first framework at that time.
+      In my second job, there was a challenge with Front-end development with ClojureScript and Back-end development with Ruby on Rails.
+      These years taught me some lessons like:
       Caring about %90 test coverage and writing readable code. Able to write
       code according to the separation of concern. Follows DRF design
       philosophies which are Less code, Quick development, Don't
@@ -66,25 +70,24 @@ experiences:
         time: 2019 - 2022
         company: Volt Lines, Istanbul
         details: |
-            - Worked with MVT api design and Client-server
+            - Worked with MVT api design and Client-server.
             - Stateless Restfull api.
             - Developed projects that use by Django DRF, Flask and Tornado python frameworks.
             - Experience with patterns using by DRF which they are Template Method Pattern, Adapter Pattern .
-            - Experience with Jenkins, dockerizing projects, regex,
+            - Experience with Jenkins, dockerizing projects.
             - Celery and pagination by CRUD api.
             - Experience with Postman and Sentry to able to debugging, solving problem and monitoring.
-            - Knowledge with Redis, Postgresql, New Relic,
-            - Docker, Docker-machine, Docker-compose, Docker
-            - Swarm and single point of failure.
+            - Knowledge with Redis, Postgresql, New Relic.
+            - Docker, Docker-machine, Docker-compose, Docker Swarm.
             - Over one year experience with Django by client side projects.
             - Understood relation and importance between microservices and main server.
-            - Good knowledge and experience with GIT
+            - Good knowledge and experience with GIT.
             - Strong passion on tasks and compatible with agile projects.
       - role: Software Engineer
         time: 2022 - current
         company: Pisano, Istanbul
         details: |
-          - Pisano domain is customer and employee experience. This app has provided statistic of surveys to companies. 
+          - Pisano domain is customer and employee experience. This app has provided statistic of surveys to companies.
           - I develop a Matrix question type in used in surveys
           - Mostly I developed features that have complex business logic
           - Worked with PSQL Ltree
@@ -93,6 +96,19 @@ experiences:
           - Dealt with Matview and complex index problems and migrations
           - With TDD i kept my jobs with unit test coverage
           - Improved skills of Junior Level  co-workers
+
+references:
+    title: References
+    info:
+      - details: |
+          - Burak Ermeydan Software Engineer at Pisano
+          - M. Onur Çelik Software Engineer at Pisano
+          - Kerem Şanyılmaz Software Engineer at Pisano
+          - Egemen Yıldız Senior Back End Developer at SYMPHONY.IS
+          - Ayman Khalil Solutions Architect at SYMPHONY.IS
+          - Baran Bartu Demirci Senior Software Engineer at Delivery Hero
+          - Cenk Bircanoglu Deep Learning Engineer & PhD Candidate at Adevinta
+          - Serkan Karakoç Tax Manager at Trendyol Group
 # projects:
 #     title:
 #     intro: >
