@@ -74,11 +74,9 @@ experiences:
             - Stateless Restfull api.
             - Developed projects that use by Django DRF, Flask and Tornado python frameworks.
             - Experience with patterns using by DRF which they are Template Method Pattern, Adapter Pattern .
-            - Experience with Jenkins, dockerizing projects.
-            - Celery and pagination by CRUD api.
+            - Experience with Jenkins, dockerizing projects, Celery and pagination by CRUD api.
             - Experience with Postman and Sentry to able to debugging, solving problem and monitoring.
-            - Knowledge with Redis, Postgresql, New Relic.
-            - Docker, Docker-machine, Docker-compose, Docker Swarm.
+            - Knowledge with Redis, Postgresql, New Relic, Docker, Docker-machine, Docker-compose, Docker Swarm.
             - Over one year experience with Django by client side projects.
             - Understood relation and importance between microservices and main server.
             - Good knowledge and experience with GIT.
