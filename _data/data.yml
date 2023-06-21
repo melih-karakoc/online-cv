@@ -70,6 +70,10 @@ experiences:
         time: 2019 - 2022
         company: Volt Lines, Istanbul
         details: |
+            - VoltLines is a subscription-based Taas(transportation as service) company based on relocating an employee from their office to their home.
+              For Voltlines I developed features that are used by internal and external customers.
+              During the pandemic crisis, I took big responsibility to develop a Demand-responsive transport feature.
+              Also just before I leave I killed features that have the legacy core business logic and replaced them h new ones.
             - Worked with MVT api design and Client-server.
             - Stateless Restfull api.
             - Developed projects that use by Django DRF, Flask and Tornado python frameworks.
@@ -85,15 +89,20 @@ experiences:
         time: 2022 - current
         company: Pisano, Istanbul
         details: |
-          - Pisano domain is customer and employee experience. This app has provided statistic of surveys to companies.
-          - I develop a Matrix question type in used in surveys
+          - The Pisano platform is based on customer and employee experience management, and it derives meaningful statistics from the collected feedback.
+            Those feedbacks are collecting through sms, email, and link channels.
+            I developed back-end features with  Ruby on Rails and front-end features with React(JS) and ClojureScript.
+          - I developed a matrix question type used in surveys.
           - Mostly I developed features that have complex business logic
           - Worked with PSQL Ltree
           - Used Ruby on Rails framework in Backend
-          - Develop features with ClojureScript and React for Frontend development
-          - Dealt with Matview and complex index problems and migrations
+          - Dealt with Matview and complex index problems and big data migrations
           - With TDD i kept my jobs with unit test coverage
-          - Improved skills of Junior Level  co-workers
+          - Improved skills of Junior Level co-workers
+          - Maintaining bugs and problems of on-premise environments
+          - Integrations between customers and our API
+          - Data import from any kind of files
+          - Actively contributing the code reviews
 
 references:
     title: References
@@ -192,6 +201,15 @@ skills:
         level: 90%
 
       - name: Docker
+        level: 50%
+
+      - name: Web Development
+        level: 90%
+
+      - name: Functional Programming
+        level: 90%
+
+      - name: GNU/Linux
         level: 50%
 
 # footer: >
