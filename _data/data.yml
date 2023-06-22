@@ -188,29 +188,38 @@ skills:
       - name: Python & Django
         level: 90%
 
+      - name: AWS, AZURE
+        level: 50%
+
+      - name:  NodeJs 
+        level: 20%
+
+      - name: Ruby on Rails
+        level: 40%
+
+      - name: JavaScript
+        level: 90%
+
       - name: ClojureScript
         level: 50%
 
-      - name: React & JavaScript
-        level: 20%
-
-      - name: HTML5 & CSS
-        level: 40%
-
-      - name: Ruby on Rails
+      - name: PSQL
         level: 90%
 
-      - name: Docker
+      - name: React 
+        level: 90%
+
+      - name: GNU/Linux
         level: 50%
 
       - name: Web Development
         level: 90%
 
       - name: Functional Programming
-        level: 90%
+      - name: VueJS
+      - name: Docker
+      - name: HTML5 & CSS
 
-      - name: GNU/Linux
-        level: 50%
 
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
