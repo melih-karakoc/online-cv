@@ -66,25 +66,6 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Software Developer
-        time: 2019 - 2022
-        company: Volt Lines, Istanbul
-        details: |
-            - VoltLines is a subscription-based Taas(transportation as service) company based on relocating an employee from their office to their home.
-              For Voltlines I developed features that are used by internal and external customers.
-              During the pandemic crisis, I took big responsibility to develop a Demand-responsive transport feature.
-              Also just before I leave I killed features that have the legacy core business logic and replaced them h new ones.
-            - Worked with MVT api design and Client-server.
-            - Stateless Restfull api.
-            - Developed projects that use by Django DRF, Flask and Tornado python frameworks.
-            - Experience with patterns using by DRF which they are Template Method Pattern, Adapter Pattern .
-            - Experience with Jenkins, dockerizing projects, Celery and pagination by CRUD api.
-            - Experience with Postman and Sentry to able to debugging, solving problem and monitoring.
-            - Knowledge with Redis, Postgresql, New Relic, Docker, Docker-machine, Docker-compose, Docker Swarm.
-            - Over one year experience with Django by client side projects.
-            - Understood relation and importance between microservices and main server.
-            - Good knowledge and experience with GIT.
-            - Strong passion on tasks and compatible with agile projects.
       - role: Software Engineer
         time: 2022 - current
         company: Pisano, Istanbul
@@ -104,12 +85,32 @@ experiences:
           - Data import from any kind of files
           - Actively contributing the code reviews
 
+      - role: Software Developer
+        time: 2019 - 2022
+        company: Volt Lines, Istanbul
+        details: |
+            - VoltLines is a subscription-based Taas(transportation as service) company based on relocating an employee from their office to their home.
+              For Voltlines I developed features that are used by internal and external customers.
+              During the pandemic crisis, I took big responsibility to develop a Demand-responsive transport feature.
+              Also just before I leave I killed features that have the legacy core business logic and replaced them h new ones.
+            - Worked with MVT api design and Client-server.
+            - Stateless Restfull api.
+            - Developed projects that use by Django DRF, Flask and Tornado python frameworks.
+            - Experience with patterns using by DRF which they are Template Method Pattern, Adapter Pattern .
+            - Experience with Jenkins, dockerizing projects, Celery and pagination by CRUD api.
+            - Experience with Postman and Sentry to able to debugging, solving problem and monitoring.
+            - Knowledge with Redis, Postgresql, New Relic, Docker, Docker-machine, Docker-compose, Docker Swarm.
+            - Over one year experience with Django by client side projects.
+            - Understood relation and importance between microservices and main server.
+            - Good knowledge and experience with GIT.
+            - Strong passion on tasks and compatible with agile projects.
+
 references:
     title: References
     info:
       - details: |
           - Burak Ermeydan Senior Frontend Developer at Crea Inc
-          - M. Onur Çelik Software Engineer at Pisano
+          - M. Onur Çelik Senior DevOps Engineer  at Pisano
           - Kerem Şanyılmaz Software Engineer at Pisano
           - Egemen Yıldız Senior Back End Developer at SYMPHONY.IS
           - Ayman Khalil Solutions Architect at SYMPHONY.IS
