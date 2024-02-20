@@ -72,8 +72,9 @@ experiences:
         details: |
           - The Pisano platform is based on customer and employee experience management, and it derives meaningful statistics from the collected feedback.
             Those feedbacks are collecting through sms, email, and link channels.
-            I developed back-end features with  Ruby on Rails and front-end features with React(JS) and ClojureScript.
-          - I developed a matrix question type used in surveys.
+            I developed back-end features with  Ruby on Rails and front-end features with React(JS) and ClojureScript
+          - I developed a matrix question type used in surveys
+          - Aes Encryption and Url Signature verifying
           - Mostly I developed features that have complex business logic
           - Worked with PSQL Ltree
           - Used Ruby on Rails framework in Backend
