@@ -47,15 +47,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a software engineer who has experience of over 3 years and 8 months.
-      These companies were in the phase of startup/scale-up so we had to do more jobs than our titles requirements.
-      I started as a Backend developer at my first Job. Django was my first framework at that time.
-      In my second job, there was a challenge with Front-end development with ClojureScript and Back-end development with Ruby on Rails.
-      These years taught me some lessons like:
-      Caring about %90 test coverage and writing readable code. Able to write
-      code according to the separation of concern. Follows DRF design
-      philosophies which are Less code, Quick development, Don't
-      repeat yourself, Explicit is better than implicit, and Loose coupling.
+      Versatile software engineer with 5+ years of experience building SaaS products in fast‑growing start‑ups and scale‑ups. Skilled in delivering backend‑centric features using Python (Django, FastAPI), Ruby on Rails, and modern JavaScript/React stacks, while comfortably diving into frontend and DevOps work when needed.  
+      Recently at **UserGuiding**, shipped an AI‑powered knowledge‑base search service, OpenAI‑driven assistant integrations, and analytics pipelines leveraging Elasticsearch and ClickHouse.  
+      At **Pisano**, created complex survey modules, implemented encryption and URL‑signature flows, and led large data migrations, upholding 90 %+ unit‑test coverage through TDD.  
+      Earlier at **Volt Lines**, launched demand‑responsive transport capabilities and refactored legacy monolith services into modular micro‑APIs.  
+      Adept at architecting scalable data models on PostgreSQL, optimising search with Elasticsearch, and containerising deployments with Docker & Kubernetes.  
+      Recognised for rapid learning, mentoring junior engineers, and turning ambiguous product ideas into reliable, maintainable software.
 education:
     title: Education
     info:
@@ -67,7 +64,26 @@ experiences:
     title: Experiences
     info:
       - role: Software Engineer
-        time: 2022 - current
+        time: 2024 - current
+        company: UserGuiding, Istanbul
+        details: |
+          - UserGuiding is a SaaS company that helps businesses improve user onboarding and
+          product adoption by providing no-code tools to create interactive product walkthroughs,
+          tooltips, checklists, and more. It enables teams to onboard new users, increase user engagement,
+          and reduce churn — all without requiring any coding or technical skills.
+          - The tech stack is Python, Django, PostgreSQL, Docker, AWS, Elasticsearch, FastAPI, and Kubernetes.
+          - I am responsible for the development of the backend of the product.
+          - I had chance to work with no-sql database like Elasticsearch.
+          - I developed Knowledge-base feature that is used by internal and external customers. To search articles i created a 
+          FastAPI service that is connected to Elasticsearch.
+          - Our team developed an AI assistant that is used by internal and external customers. That AI assistant is using OpenAI assistant api.
+          - Developed integration between UserGuiding and other SaaS products.
+          - Moved some metrics to Clickhouse to use advance analytics features.
+            - When i was arrived UserGuiding has no language feature for the product. I developed a language
+            data model and implemented it.
+
+      - role: Software Engineer
+        time: 2022 - 2024
         company: Pisano, Istanbul
         details: |
           - The Pisano platform is based on customer and employee experience management, and it derives meaningful statistics from the collected feedback.
@@ -187,7 +203,7 @@ skills:
     title: Skills &amp; Familiar With
 
     toolset:
-      - name: Python & Django
+      - name: Python & Django & FastAPI
         level: 90%
 
       - name: AWS, AZURE
